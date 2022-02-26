@@ -1,0 +1,151 @@
+#navbar{
+    width: 100%;
+    height: 45px;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    width: 150px;
+    height: 30px;
+    margin-top: 10px;
+    /* border: 1px solid red; */
+    cursor: pointer;
+}
+#mid{
+    display: flex;
+
+}
+#mid>p{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+#questionMark{
+    width: 20px;
+    height: 30px;
+    /* border: 1px solid green; */
+    margin-top: 7px;
+    cursor: pointer;
+}
+#last>a{
+    /* border: 1px solid red; */
+    margin-top:1px;
+    height: 10px;
+}
+#last{
+    /* border: 1px solid blue; */
+    height: 10px;
+}
+
+#signup{
+    width: 100%;
+    height: 600px;
+    /* border: 1px solid blue; */
+    margin-top: 10px;
+    position: relative;
+}
+img{
+    margin-top: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+.innerbox{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 650px;
+    height: 400px;
+    background-color: aliceblue;
+    opacity: 0.8;
+}
+.innerbox>h1{
+    font-family:FavoritFreshly, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 48px;
+    margin: 40px;
+    color: 303030;
+    margin-top: 45px;
+}
+.innerbox>h2{
+    font-size: 30px;
+    font-family:FavoritFreshly, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 20px;
+}
+#email{
+    height: 40px;
+    width: 300px;
+    background-color: #fff;
+    margin-left: 20px;
+    font-size: 16px;
+}
+#zip{
+    width: 100px;
+    height: 40px;
+    opacity: 1;
+    background-color:white;
+    margin-left: 20px;
+    font-size: 16px;
+}
+#button{
+    height: 46px;
+    width: 100px;
+    margin-left: 20px;
+    font-size: 16px;
+    background-color:rgb(49,103,255) ;
+    color: white;
+}
+
+P{
+    font-family:FavoritFreshly, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    margin-left: 20px;
+}
+.small{
+    margin-top: 40px;
+    font-size: 12px;
+}
+.small1{
+    font-size: 12px;
+    font-weight: 400;
+}
+form{
+    opacity: 1;
+}
+a{
+    color: rgb(49,103,255) ;
+}
+#common{
+    text-align: center;
+}
+
+.box{
+    width: 80%;
+    height: 60px;
+    /* border: 1px solid gray; */
+    margin: auto;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.image{
+    width: 20px;
+    height: 30px;
+    margin-top: 10px;
+    color: rgb(49,103,255);
+    cursor: pointer;
+}
+#questions>.box{
+    display: flex;
+    justify-content: space-between;
+}
+hr{
+    width: 80%;
+    
+}
+#questions{
+    background-color: rgb(254,249,234);
+    margin-top: 0%;
+}

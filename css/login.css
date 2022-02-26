@@ -1,0 +1,188 @@
+#navbar{
+    width: 100%;
+    height: 50px;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+
+img{
+    height: 50px;
+    width: 120px;
+    cursor: pointer;
+}
+button{
+    padding: 15px 10px;
+    background: transparent;
+    border: none;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.signup{
+    background-color: rgb(49,103,255);
+    color: white;
+    font-weight: 700;
+}
+#form{
+    
+    width: 100%;
+    height: 420px;
+    border: 1px solid rgb(198,200,202);
+    background-color: rgb(255,253,247);
+    
+}
+#form>div:nth-child(1){
+    margin-top: 60px;
+}
+ #form>div:nth-child(2){
+    width: 500px;
+    height: 300px;
+    /* border: 1px solid red; */
+    margin: auto;
+    line-height: 0%;
+    /* margin-top: 10px; */
+    
+} 
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    
+}
+.loginbutton{
+    font-size: 12px;
+    /* border: 1px solid red; */
+    padding: 0%;
+    width: 100%;
+    height: 40px;
+    font-size: 16px;
+    margin-top: 15px;
+    background-color: rgb(49,103,255);
+    color: white;
+    font-weight: bold;
+}
+p{
+    font-family: sans-serif;
+}
+input{
+    width: 98%;
+    height: 35px;
+}
+.endbox{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    font-size: 14px;
+}
+.test{
+    font-size: 14px;
+    font-weight: 550;
+    color: #303030;
+}
+a{
+    text-decoration: underline;
+    color: #004df6;
+    font-weight: 700;
+}
+input::placeholder{
+    padding-left: 10px;
+    font-size: 16px;
+}
+.loginbutton:hover{
+    
+    background-color: blue;
+    cursor: pointer;
+}
+.single:hover{
+    color:#004df6 ;
+    text-decoration: underline;
+    cursor: pointer;
+   
+}
+.signup:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+#footer{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(6,220px);
+    grid-template-rows: 300px;
+    grid-gap: 5px;
+    margin-top: 50px;
+}
+/* #footer>div{
+    /* border: 1px solid red; 
+} */
+img{
+    height: 30px;
+}
+#icons{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    font-size: 25px;
+}
+.fa-twitter{
+    color: rgb(198,200,202);
+    text-decoration: none;
+   
+}
+.fa-instagram{
+    color: rgb(198,200,202);
+    text-decoration: none;
+}
+.fa-pinterest   {
+    color: rgb(198,200,202);
+    text-decoration: none;
+    
+}
+.fa-facebook{
+    color: rgb(198,200,202);
+    text-decoration: none;
+}
+.fa-facebook:hover{
+    color: rgb(104, 107, 109);
+    
+}
+.fa-pinterest:hover{
+    color: rgb(104, 107, 109);
+    
+}
+
+.fa-instagram:hover{
+    color: rgb(104, 107, 109);
+    
+}
+
+.fa-twitter:hover{
+    color: rgb(104, 107, 109);
+    
+}
+
+#logo{
+    margin-top: 25px;
+    margin-left: 25px;
+    width: 150px;
+    height: 100px;
+}
+body{
+    font-family: sans-serif;
+}
+#div3{
+    line-height: 20px;
+}
+a{
+    color: rgb(49,103,255);
+    font-size: 14px;
+    line-height: 10px;
+}
+a:hover{
+    color: rgb(19, 68, 204);
+}
+
+.head{
+    font-size: 14px;
+}
