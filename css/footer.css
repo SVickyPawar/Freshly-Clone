@@ -1,0 +1,81 @@
+#footer{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(6,220px);
+    grid-template-rows: 300px;
+    grid-gap: 5px;
+    
+}
+/* #footer>div{
+    /* border: 1px solid red; 
+} */
+img{
+    height: 30px;
+}
+#icons{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    font-size: 25px;
+}
+.fa-twitter{
+    color: rgb(198,200,202);
+    text-decoration: none;
+   
+}
+.fa-instagram{
+    color: rgb(198,200,202);
+    text-decoration: none;
+}
+.fa-pinterest   {
+    color: rgb(198,200,202);
+    text-decoration: none;
+    
+}
+.fa-facebook{
+    color: rgb(198,200,202);
+    text-decoration: none;
+}
+.fa-facebook:hover{
+    color: rgb(104, 107, 109);
+    
+}
+.fa-pinterest:hover{
+    color: rgb(104, 107, 109);
+    
+}
+
+.fa-instagram:hover{
+    color: rgb(104, 107, 109);
+    
+}
+
+.fa-twitter:hover{
+    color: rgb(104, 107, 109);
+    
+}
+
+#logo{
+    margin-top: 25px;
+    margin-left: 25px;
+    width: 150px;
+    height: 100px;
+}
+body{
+    font-family: sans-serif;
+}
+#div3{
+    line-height: 20px;
+}
+a{
+    color: rgb(49,103,255);
+    font-size: 14px;
+    line-height: 10px;
+}
+a:hover{
+    color: rgb(19, 68, 204);
+}
+
+.head{
+    font-size: 14px;
+}
