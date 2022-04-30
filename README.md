@@ -19,7 +19,7 @@ Just go, check and order the food and enjoy your healthy life. Yeah! It is that 
 
 # Glimpse of our Website-
 ## Landing Page
-<img src="https://drive.google.com/file/d/16N80DyMgpmocu40uH5n7mwI4uecylVBI/view?usp=sharing"></img>
+![freshlyhome](https://user-images.githubusercontent.com/97332040/166095748-a263ab67-af34-4fed-8a27-5d7755f8b160.png)
 ## Product Page
 <img src="https://drive.google.com/file/d/1iHZE1xaHH1_YJ2Qn6a9VpAB5ngRv7ImL/view?usp=sharing"></img>
 
